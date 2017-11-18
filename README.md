@@ -1,0 +1,2 @@
+# app
+Aplicação Cordova Android
